@@ -6,4 +6,3 @@ How to credit you <br/>
 Any licenses <br/>
 Transcriptome at GEO (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE227591)<br/> 
 Other data at Figshare (https://figshare.com) <br/>
-Links/information to other repository data
