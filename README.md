@@ -2,7 +2,7 @@
 Funded by the American Heart Association 18TPA34230082 <br/>
 The project description - Who were the subjects? What did they do? What were the conditions? <br/>
 How was the project was carried out? <br/>
-How to credit you <br/>
+ORCiD: (https://orcid.org/0000-0001-7615-9788) <br/>
 License [CC BY 4.0] <br/>
 Transcriptome at GEO (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE227591)<br/> 
 Data at Figshare (https://figshare.com/articles/journal_contribution/Deletion_of_adipocyte_FoxO1_induced_browning_of_white_adipose_tissue_/27236310?file=49815021) <br/>
