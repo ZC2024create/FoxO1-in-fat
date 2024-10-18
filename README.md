@@ -1,7 +1,7 @@
 # FoxO1-in-fat
 Funded by the American Heart Association 18TPA34230082 <br/>
 This project studied laboratory mice to gain an in-depth understanding of the transcription factor FoxO1 in regulating mitochondrial quality control via mitochondrial biogenesis and autophagy, and how the regulatory network contributes to adipsoe browning, energy metabolism, and thermogenesis under room temperature around 22 degree C and cold exposure at 4 degree C. <br/>
-Specifically, FoxO1 was modulated by genetic approach, i.e., inducible Cre-loxP system, to temporally induce FoxO1 deletion in adult mice. Physiological measurements included food intake, body weight, fat mass, whole body energy expenditure by TSE ssytem, glucose tolerence test, insulin tolerence test, and cold telerence test for thermogeensis. Mitochondrial quality control was examined by Western blotting, immunohistochemistry, electron microscopy, and High-resolution respirometry. <br/>
+Specifically, FoxO1 was modulated by genetic approach, i.e., inducible Cre-loxP system, to temporally induce FoxO1 deletion in adult mice. Physiological measurements included food intake, body weight, fat mass, whole body energy expenditure by TSE ssytem, glucose tolerence test, insulin tolerence test, and cold telerence test for thermogeensis. Mitochondrial quality control was examined by Western blotting, immunohistochemistry, electron microscopy, and high-resolution respirometry. <br/>
 ORCiD: (https://orcid.org/0000-0001-7615-9788) <br/>
 License [CC BY 4.0] <br/>
 Transcriptome at GEO (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE227591)<br/> 
